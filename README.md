@@ -44,7 +44,7 @@ Or click here: [Watch on YouTube](https://youtu.be/oFJRCdFpBwA)
 
 Read a step-by-step article about building this game on **dev.to**:
 
-[**“Building a Tiny Halloween Game in Python 🎃 (OOP + Functions)”**](https://dev.to/YOUR_USERNAME/building-a-tiny-halloween-game-in-python-oop-functions-xyz)
+[**“Witch's Potion: A Spooky Halloween Mini-Game Built with Python OOP”**](https://dev.to/shahrouzlogs/witchs-potion-a-spooky-halloween-mini-game-built-with-python-oop-5090)
 
 It explains:
 
