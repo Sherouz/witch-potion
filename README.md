@@ -1,7 +1,3 @@
-perfect 👻 this one deserves a wickedly fun README — short, thematic, but still professional. Here’s your **`README.md`** draft written in the same style and structure as the *Tiny Hero* one you showed, but tailored for your Halloween mini-game:
-
----
-
 # 🧙‍♀️ Witch’s Potion 🧪
 
 **A spooky, short Halloween game built in Python using OOP and functions!**
