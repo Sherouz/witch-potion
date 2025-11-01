@@ -70,9 +70,13 @@ It demonstrates:
 ## ✨ Key Features
 
 🎃 **Quick Gameplay:** Finish a round in under a minute. 
+
 💥 **Randomized Potion Combo:** Every game is different. 
+
 🐸 **Fun Failure State:** Wrong combo? Enjoy your new life as a frog. 
+
 😈 **Cinematic Feel:** Slow-printed dialogue for Halloween atmosphere. 
+
 🧪 **Beginner-Friendly Code:** Perfect for learners practicing classes and functions.
 
 ---
